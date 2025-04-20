@@ -1,0 +1,14 @@
+Pre-requisites:
+
+- Text editor (VS Code, Atom, Sublime Text, Notepad)
+-  Web browser
+
+
+TODOs
+
+1. Build project
+    - creating folder
+    - adding files
+    - connecting files
+
+    
